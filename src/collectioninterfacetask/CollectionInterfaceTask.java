@@ -7,7 +7,7 @@ package collectioninterfacetask;
 
 /**
  *
- * @author Peter
+ * @author Peter Stanger
  */
 public class CollectionInterfaceTask {
 
